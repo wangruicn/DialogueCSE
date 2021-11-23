@@ -9,7 +9,7 @@ JDDC is an open-source dataset released by JD AI \[1\] under Apache License 2.0.
 
 **ECD**
 
-ECD is released in \[2\] . We are granted by the corresponding author to distribute our train/dev/test datasets.
+ECD is released in \[2\] .
 
 **MDC**
 
